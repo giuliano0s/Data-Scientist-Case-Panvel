@@ -1,0 +1,11 @@
+Coluna;Dados
+codigo_filial;Identificador de Filial
+faixa_vida;Faixa de tempo de funcionamento da filial
+localidade;Cidade
+uf;Unidade Federativa (Estado)
+tipo_estabelecimento;Tipo de filial
+delivery;Indicador se a filial realiza entregas de ecommerce
+metragem_area_venda;Tamanho da filial em metros
+panvel_clinic;Indicador de prestação de serviços - ex. Vacinação
+estacionamento;Indicador de estacionamento no local
+atendimento_24_horas;Indicador de funcionamento 24 horas
