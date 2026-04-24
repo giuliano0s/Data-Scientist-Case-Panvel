@@ -7,3 +7,4 @@ pyarrow
 fastparquet
 openpyxl
 seaborn
+plotly
