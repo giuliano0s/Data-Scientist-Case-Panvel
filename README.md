@@ -59,7 +59,7 @@ O projeto foi desenhado para rodar na **Google Cloud Platform (GCP)**:
 
 1.  Clone o repositório:
     ```bash
-    git clone https://github.com/Giuliano0s/predictive-goal-calibration.git
+    git clone https://github.com/Giuliano0s/Data-Scientist-Case-Panvel.git
     ```
 2.  Instale as dependências:
     ```bash
