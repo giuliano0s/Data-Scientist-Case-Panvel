@@ -137,6 +137,9 @@ logs/
 # Kaggle
 .kaggle/
 
+# CatBoost
+catboost_info/
+
 # DVC
 .dvc/
 .dvcignore
